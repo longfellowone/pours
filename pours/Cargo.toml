@@ -7,3 +7,4 @@ edition = "2018"
 
 [dependencies]
 cp = { path = "../cp" }
+petgraph = "0.6.0"
